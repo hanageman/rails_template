@@ -1,0 +1,1 @@
+rails new $APP_NAME -f -d mysql -T --skip-bundle -m template.rb
